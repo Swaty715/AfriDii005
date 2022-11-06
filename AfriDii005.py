@@ -103,5 +103,4 @@ print("")
 input("            \033[1;33m     Press Enter")
 os.system('clear')
 print(logo)
-
 notice()
